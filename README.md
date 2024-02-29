@@ -1,5 +1,13 @@
 # SimpliLegal - Smart India Hackathon 2023 Project
 
+## File Link: 
+
+[See Figma Prototype]([https://github.com/TeamSimpliLegal/SimpliLegal/issues](https://www.figma.com/file/5QWWdnL4N0qX7jYEsxIJv1/Team-SimpliLegal?type=design&node-id=0%3A1&mode=design&t=qur8RtnYIr01WKpl-1))
+
+## Video Link: 
+
+[See Prototype Video]([https://github.com/TeamSimpliLegal/SimpliLegal/issues](https://drive.google.com/file/d/1FmQARtgjQAO0Aiy9XxPXImnx8PHLP7se/view?usp=sharing))
+
 ## Overview:
 
 SimpliLegal, developed during the Smart India Hackathon 2023 by Team SimpliLegal, is an AI-powered solution designed to simplify the often complicated and time-consuming process of legal documentation. The primary focus is to assist individuals and small businesses in India who may lack access to legal resources, addressing the challenge of understanding complex legal language.
