@@ -6,12 +6,16 @@ SimpliLegal, developed during the Smart India Hackathon 2023 by Team SimpliLegal
 
 ## Features:
 
-- User-Centric Design: Crafted an intuitive and accessible UI/UX to ensure a seamless experience for users.
-- Streamlined Information Input: Simplified the input process for relevant details, making it user-friendly.
-- Customization Options: Incorporated intuitive features allowing users to personalize legal documents based on their specific needs.
-- Visual Clarity: Prioritized visual elements for better document comprehension, especially for non-lawyers.
-- Responsive Design: Ensured a consistent and optimal experience across various devices.
-- Feedback Mechanisms: Integrated clear and prompt feedback mechanisms to enhance user confidence and reduce errors.
+1. User-friendly interface for inputting relevant information such as parties involved,
+terms of the agreement, and other necessary details.
+2. AI-powered document generation that automatically drafts legal documents in plain
+language and using easy-to-understand terms.
+3. Ability to customize legal documents based on the specific needs of the user.
+4. Integration with existing legal resources and databases to ensure accuracy and
+completeness of the legal documents.
+5. Option for users to seek legal advice from an expert in case of complex legal
+issues.
+
 
 ## Usage:
 
