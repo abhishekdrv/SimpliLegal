@@ -1,10 +1,10 @@
 # SimpliLegal - Smart India Hackathon 2023 Project
 
-# File Link: 
+## File Link: 
 
 [See Figma Prototype](https://www.figma.com/file/5QWWdnL4N0qX7jYEsxIJv1/Team-SimpliLegal?type=design&node-id=0%3A1&mode=design&t=qur8RtnYIr01WKpl-1)
 
-# Video Link: 
+## Video Link: 
 
 [See Prototype Video](https://drive.google.com/file/d/1FmQARtgjQAO0Aiy9XxPXImnx8PHLP7se/view?usp=sharing)
 
